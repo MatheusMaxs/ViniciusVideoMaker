@@ -1,0 +1,16 @@
+{
+  "name": "viniciusvideomaker-main",
+  "version": "1.0.0",
+  "main": "/client/src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd ViniciusVideoMaker-main && npm ci --no-audit --no-fund && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
